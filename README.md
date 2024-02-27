@@ -1,7 +1,7 @@
 # Projeto de Gerenciamento de Monitoria (backend)
 
 ## Sobre
-Projeto criado em Dezembro de 2023, que visa realizar operações CRUD acerca do gerenciamento de monitorias dentro do [Departamento de Ciência da Computação (CIC)](https://cic.unb.br/) da [Universidade de Brasília (UnB)](https://unb.br/). Este projeto foi fundado com base no protótipo proposto por Beatriz Chiarelli em sua [monografia](https://bdm.unb.br/handle/10483/36307) e devidamente autorizado pela mesma.
+Projeto criado em Dezembro de 2023, que visa realizar operações CRUD acerca do gerenciamento de monitorias dentro do [Departamento de Ciência da Computação (CIC)](https://cic.unb.br/) da [Universidade de Brasília (UnB)](https://unb.br/). Este projeto foi fundado com base no protótipo proposto por Beatriz Chiarelli em sua [monografia](https://bdm.unb.br/handle/10483/36307) e devidamente autorizado pela mesma e pela [Professor PhD Edna Dias Canedo](https://ednacanedo.github.io/), sua orientadora.
 
 ## Funcionalidades
 Seguindo o protótipo, as funcionalidades são:
